@@ -1,0 +1,30 @@
+﻿body {
+  background-color: #0E8BCD; }
+
+.header-Main {
+  margin-left: 40%; }
+
+.header-Body {
+  background-color: #ffffff;
+  height: 1500px; }
+
+h3 {
+  font-weight: normal;
+  color: #CBCBCB; }
+
+#Idioma {
+  float: right;
+  margin-right: 45px; }
+
+input {
+  border-radius: 3px;
+  border-color: lightslategray; }
+
+.Nombres {
+  width: 15%; }
+
+.Apellidos {
+  width: 15%; }
+
+.Email {
+  width: 25%; }
